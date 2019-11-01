@@ -1,20 +1,8 @@
 {
-  "@@last_modified": "2019-11-01T15:43:45.205840",
-  "title": "国际化示例App",
+  "@@last_modified": "2019-11-01T17:57:31.370824",
+  "title": "CN標題",
   "@title": {
     "description": "標題",
-    "type": "text",
-    "placeholders": {}
-  },
-  "click": "点击",
-  "@click": {
-    "description": "點擊",
-    "type": "text",
-    "placeholders": {}
-  },
-  "helloFromDemo": "你好呀~",
-  "@helloFromDemo": {
-    "description": "問候",
     "type": "text",
     "placeholders": {}
   }

@@ -1,20 +1,8 @@
 {
-  "@@last_modified": "2018-07-15T22:13:19.218221",
+  "@@last_modified": "2019-11-01T17:57:31.370824",
   "title": "Localization Demo",
   "@title": {
     "description": "標題",
-    "type": "text",
-    "placeholders": {}
-  },
-  "click": "Click",
-  "@click": {
-    "description": "點擊",
-    "type": "text",
-    "placeholders": {}
-  },
-  "helloFromDemo": "Hello~",
-  "@helloFromDemo": {
-    "description": "問候",
     "type": "text",
     "placeholders": {}
   }

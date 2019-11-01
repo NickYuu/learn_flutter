@@ -24,22 +24,9 @@ class AppStrings {
     return Intl.message(
       'Localization Demo',
       name: 'title',
-      desc: '应用标题',
+      desc: '標題',
       locale: _localeName,
     );
   }
 
-  String click() => Intl.message(
-    'Click',
-    name: 'click',
-    desc: '点击',
-    locale: _localeName,
-  );
-
-  String helloFromDemo() => Intl.message(
-    'Hello~',
-    name: 'helloFromDemo',
-    desc: '一句问候',
-    locale: _localeName,
-  );
 }
